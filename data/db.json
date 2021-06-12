@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Pattharapol Lakboon",
+      "age": 25,
+      "faculty": "Computer Science"
+    },
+    {
+      "id": "2",
+      "name": "Pattharapol Lakboon2",
+      "age": 26,
+      "faculty": "Computer Science2"
+    },
+    {
+      "id": "4",
+      "name": "Pattharapol Lakboon4",
+      "age": 28,
+      "faculty": "Computer Science4"
+    },
+    {
+      "id": "5",
+      "name": "Pattharapol Lakboon5",
+      "age": 29,
+      "faculty": "Computer Science5"
+    },
+    {
+      "id": "7",
+      "name": "ภัทรพล หลักบุญ",
+      "age": "120",
+      "faculty": "Sports MFK"
+    }
+  ]
+}
